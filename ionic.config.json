@@ -1,5 +1,7 @@
 {
   "name": "scratchIonicPoc",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
